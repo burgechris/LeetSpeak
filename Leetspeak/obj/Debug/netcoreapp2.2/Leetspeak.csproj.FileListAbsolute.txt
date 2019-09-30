@@ -7,3 +7,5 @@
 /Users/Guest/Desktop/Leetspeak.Solution/Leetspeak/obj/Debug/netcoreapp2.2/Leetspeak.AssemblyInfo.cs
 /Users/Guest/Desktop/Leetspeak.Solution/Leetspeak/obj/Debug/netcoreapp2.2/Leetspeak.dll
 /Users/Guest/Desktop/Leetspeak.Solution/Leetspeak/obj/Debug/netcoreapp2.2/Leetspeak.pdb
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak/bin/Debug/netcoreapp2.2/Leetspeak.runtimeconfig.json
+/Users/Guest/Desktop/Leetspeak.Solution/Leetspeak/bin/Debug/netcoreapp2.2/Leetspeak.runtimeconfig.dev.json
